@@ -100,7 +100,7 @@ body {
 }
 
 #locations {
-    background-image: url(images/img-locations-background.jpg);
+    background-image: url(../images/img-locations-background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 500px;
